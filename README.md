@@ -37,6 +37,19 @@ Rápido, simple y con interfaz intuitiva en español e inglés. Ideal para quien
 
 ---
 
+---
+
+## 🪟 Ejecutable para Windows
+
+No necesitas instalar Python.  
+Descarga y ejecuta directamente desde aquí:
+
+👉 [⬇️ Descargar ejecutable para Windows](https://github.com/TU_USUARIO/PasswordGen/raw/main/PWGen/Generador%20de%20contraseñas%20MultiLenguaje.exe)
+
+> ⚠️ Puede que Windows muestre una advertencia al abrir el archivo. Si confías en el origen (tú mismo 😎), puedes permitirlo.
+
+---
+
 ## ⚙️ Requisitos
 
 ```bash
